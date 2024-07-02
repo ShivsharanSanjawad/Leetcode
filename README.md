@@ -8,4 +8,13 @@ These are just my leetcode question solution upto my great knowledge at the time
 | ------- |
 | [0007-reverse-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0012-integer-to-roman) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
