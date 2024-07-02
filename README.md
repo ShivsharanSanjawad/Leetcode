@@ -7,4 +7,5 @@ These are just my leetcode question solution upto my great knowledge at the time
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
