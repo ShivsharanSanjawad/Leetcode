@@ -10,6 +10,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0007-reverse-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0012-integer-to-roman) |
+| [0367-valid-perfect-square](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,4 +19,8 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0012-integer-to-roman) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
