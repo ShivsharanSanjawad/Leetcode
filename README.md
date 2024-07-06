@@ -10,6 +10,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0007-reverse-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0012-integer-to-roman) |
+| [0204-count-primes](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0390-elimination-game) |
 | [2645-pass-the-pillow](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2645-pass-the-pillow) |
@@ -37,6 +38,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0204-count-primes](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0204-count-primes) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1603-running-sum-of-1d-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2048-build-array-from-permutation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -62,4 +64,12 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0119-pascals-triangle-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
