@@ -8,7 +8,10 @@ class MedianFinder {
     
     public void addNum(int num) {
         int j = 0 ; 
-        
+        if(a.size()==0){
+        a.add(num) ;
+return ;
+        }
         while(j<a.size()&&a.get(j)<num){
             j++ ;
         }
