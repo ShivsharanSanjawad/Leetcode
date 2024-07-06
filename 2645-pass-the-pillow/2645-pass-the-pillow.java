@@ -1,17 +1,13 @@
 class Solution {
-    public int passThePillow(int n, int time) {
+    public  int passThePillow(int n, int time) {
         int i = 0 ;
-        int d = 1 ; 
-        while(time>0){
-            if(((i==n-1)&&d==1)||(i==0&&d==-1))
-            d = -1 *d ;
-            if(d==1)
-            i++ ;
-            else 
-            i-- ;
-
-            time-- ;
+        while(time>=n){
+                time = time-n+1 ;
+                i ++ ; 
         }
-        return i+1 ;
+        if(i%2==0){
+            return time+1;
+        }
+        return n-time ;
     }
 }
