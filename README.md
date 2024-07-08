@@ -15,6 +15,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0367-valid-perfect-square](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0390-elimination-game) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2722-prime-in-diagonal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2722-prime-in-diagonal) |
@@ -46,6 +47,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1505-create-target-array-in-the-given-order](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1603-running-sum-of-1d-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2386-min-max-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2386-min-max-game) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
@@ -54,6 +56,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2386-min-max-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2386-min-max-game) |
@@ -68,6 +71,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0002-add-two-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0390-elimination-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0390-elimination-game) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,4 +130,8 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
