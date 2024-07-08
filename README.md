@@ -70,6 +70,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0390-elimination-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0390-elimination-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
@@ -122,6 +123,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
