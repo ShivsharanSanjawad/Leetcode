@@ -47,6 +47,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0204-count-primes](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0204-count-primes) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1603-running-sum-of-1d-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1803-average-waiting-time](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1803-average-waiting-time) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -57,6 +58,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1803-average-waiting-time](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
