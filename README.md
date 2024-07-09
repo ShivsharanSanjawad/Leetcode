@@ -13,6 +13,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0012-integer-to-roman](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0390-elimination-game) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -77,6 +78,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0002-add-two-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0231-power-of-two](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0231-power-of-two) |
 | [0390-elimination-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0390-elimination-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
@@ -155,4 +157,8 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
