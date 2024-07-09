@@ -54,13 +54,8 @@ class Solution {
             fast = fast.next.next;
         }
          ListNode lis =   sortList(midPrev.next) ;
-        midPrev.next = null;
-            
-            
+          midPrev.next = null;    
           ListNode list =  sortList(head) ;
-
-             
-           
           return mergeTwoLists(lis , list) ;
     }
 }
