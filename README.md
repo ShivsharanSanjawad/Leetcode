@@ -16,6 +16,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0231-power-of-two](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0390-elimination-game) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2645-pass-the-pillow) |
@@ -147,6 +148,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0142-linked-list-cycle-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0148-sort-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Divide and Conquer
