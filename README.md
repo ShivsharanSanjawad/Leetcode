@@ -28,6 +28,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -52,6 +53,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0001-two-sum) |
 | [0119-pascals-triangle-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0204-count-primes) |
