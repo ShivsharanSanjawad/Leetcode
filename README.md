@@ -16,6 +16,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0231-power-of-two](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0390-elimination-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0390-elimination-game) |
+| [0633-sum-of-square-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -43,6 +44,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | ------- |
 | [0367-valid-perfect-square](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0633-sum-of-square-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Interactive
 |  |
 | ------- |
@@ -113,6 +115,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0148-sort-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0633-sum-of-square-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Design
 |  |
