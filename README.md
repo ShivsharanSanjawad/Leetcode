@@ -21,6 +21,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2032-largest-odd-number-in-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2645-pass-the-pillow](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2722-prime-in-diagonal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2722-prime-in-diagonal) |
@@ -40,6 +41,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | ------- |
 | [0012-integer-to-roman](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0012-integer-to-roman) |
 | [1720-crawler-log-folder](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1720-crawler-log-folder) |
+| [2032-largest-odd-number-in-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 ## Binary Search
@@ -197,4 +199,8 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1720-crawler-log-folder) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
