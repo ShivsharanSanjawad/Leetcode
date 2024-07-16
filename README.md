@@ -57,6 +57,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0204-count-primes) |
@@ -119,6 +120,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0148-sort-list) |
@@ -134,6 +136,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0295-find-median-from-data-stream) |
