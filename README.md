@@ -61,6 +61,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0136-single-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1603-running-sum-of-1d-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -122,6 +123,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0142-linked-list-cycle-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0633-sum-of-square-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0908-middle-of-the-linked-list) |
