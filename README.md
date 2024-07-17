@@ -24,6 +24,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2645-pass-the-pillow](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
@@ -79,6 +80,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1803-average-waiting-time](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1803-average-waiting-time) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2386-min-max-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2386-min-max-game) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
@@ -116,6 +118,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0204-count-primes) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Number Theory
 |  |
 | ------- |
@@ -203,6 +206,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0136-single-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0268-missing-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Stack
 |  |
@@ -222,4 +226,12 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | ------- |
 | [0382-linked-list-random-node](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0398-random-pick-index) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
