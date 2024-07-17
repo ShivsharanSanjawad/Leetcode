@@ -11,6 +11,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0007-reverse-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0012-integer-to-roman) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0231-power-of-two) |
@@ -34,12 +35,14 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0012-integer-to-roman](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0012-integer-to-roman) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1720-crawler-log-folder](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1720-crawler-log-folder) |
 | [2032-largest-odd-number-in-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
