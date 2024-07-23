@@ -25,6 +25,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0504-base-7](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0504-base-7) |
 | [0593-valid-square](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0897-prime-palindrome](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0897-prime-palindrome) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -135,6 +136,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0204-count-primes) |
+| [0897-prime-palindrome](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0897-prime-palindrome) |
 | [2722-prime-in-diagonal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Matrix
