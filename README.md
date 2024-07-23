@@ -22,6 +22,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0398-random-pick-index](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0504-base-7) |
 | [0633-sum-of-square-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
