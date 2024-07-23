@@ -23,6 +23,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0400-nth-digit](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0504-base-7) |
+| [0537-complex-number-multiplication](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0593-valid-square](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0897-prime-palindrome](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0897-prime-palindrome) |
@@ -56,6 +57,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | ------- |
 | [0012-integer-to-roman](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0012-integer-to-roman) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0537-complex-number-multiplication](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [1720-crawler-log-folder](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1720-crawler-log-folder) |
 | [2032-largest-odd-number-in-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
@@ -102,6 +104,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 ## Simulation
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1803-average-waiting-time](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
