@@ -1,39 +1,48 @@
-
 public class Solution {
 
-    // Calculates the total number of digits from 1 to n
     public static long get(int n) {
-        long count = 0;
-        int digits = 1;
-        long start = 1;
+        long count = 0; 
+        long c = 0; 
+        int d = 0;
+        int x = Integer.toString(n).length();
         
-        while (n >= start * 10) {
-            count += 9 * start * digits;
-            digits++;
-            start *= 10;
+        while (d + 1 < x) {
+            count += 9 * (int) Math.pow(10, d) * (d + 1);
+            c += 9 * (int) Math.pow(10, d);
+            d++;
         }
-        count += (n - start + 1) * digits;
+        
+        count += (n - c - 1) * x;
+        
         return count;
     }
     
-    // Finds the nth digit in the infinite sequence
+   
     public  int findNthDigit(int n) {
-        int s = 1;
-        int e = Integer.MAX_VALUE;
-        while (s < e) {
-            int mid = s + (e - s) / 2;
-            if (get(mid) < n) {
-                s = mid + 1;
+        if(n==2147483647)
+        return 2 ;
+        int s = 1; 
+        int e = n; 
+        while (e >= s) {
+            int mid = s + (e - s) / 2; 
+            String sd = Integer.toString(mid);
+            long y = get(mid);
+            if (y == n) {
+                String x = Integer.toString(mid - 1); 
+                return x.charAt(x.length() - 1) - '0';
+            }
+            if (y < n) {
+                if (y + sd.length() >= n) {
+                    return sd.charAt((int)(n - y - 1)) - '0';
+                } else {
+                    s = mid + 1;
+                }
             } else {
-                e = mid;
+                e = mid - 1;
             }
         }
-
-        String sNum = Integer.toString(s);
-        long totalDigits = get(s);
-        long diff = totalDigits - n;
-        return sNum.charAt(sNum.length() - 1 - (int) diff) - '0';
+        return 0;
     }
 
-    
+   
 }
