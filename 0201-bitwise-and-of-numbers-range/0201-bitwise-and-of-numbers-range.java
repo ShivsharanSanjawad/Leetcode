@@ -8,10 +8,11 @@ class Solution {
         if(log2(left)<log2(right)){
             return 0 ;
         }
-        long ans = ~0 ; 
+        
         if((left&(left-1))==0){
             return left ;
         }
+        long ans = ~0 ; 
         for(long i = left  ;i<=right;i++){
             ans = ans &i ;
         }
