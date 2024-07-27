@@ -32,6 +32,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1674-minimum-operations-to-make-array-equal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2645-pass-the-pillow](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2645-pass-the-pillow) |
@@ -98,6 +99,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1803-average-waiting-time](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1803-average-waiting-time) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2386-min-max-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2386-min-max-game) |
@@ -244,6 +246,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0861-flipping-an-image) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2792-neighboring-bitwise-xor](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
