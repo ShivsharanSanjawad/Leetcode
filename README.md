@@ -251,6 +251,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0861-flipping-an-image) |
 | [1054-complement-of-base-10-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1054-complement-of-base-10-integer) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
