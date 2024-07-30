@@ -9,17 +9,19 @@
  * }
  */
 class Solution {
+    ListNode head ;
     public ListNode reverseList(ListNode head) {
+        get(head) ; 
+        return this.head ;
+    }
+    public ListNode get(ListNode head){
         if(head==null||head.next==null){
-            return head ;
+            this.head = head ;
+            return head ; 
         }
-        ListNode temp = reverseList(head.next) ; 
-        ListNode t = temp ;
-        while(temp.next!=null){
-            temp = temp.next ;
-        }
-        temp.next = head ;
-        head.next = null ;
-        return t  ;
+        ListNode x = get(head.next); 
+        x.next = head ;
+        head.next = null ; 
+        return head ;
     }
 }
