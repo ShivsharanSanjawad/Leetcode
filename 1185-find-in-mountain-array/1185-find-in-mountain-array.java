@@ -10,9 +10,10 @@
 class Solution {
     public int findInMountainArray(int target, MountainArray mountainArr) {
         int x = get(mountainArr) ;
-        System.out.println(x);
-        if(search(mountainArr, 0,x,target)!=-1){
-           return search(mountainArr,0,x,target) ;
+       
+        int y = search(mountainArr, 0,x,target) ;
+        if(y!=-1){
+           return y;
         }
         return searh(mountainArr,x+1,mountainArr.length()-1,target) ;
     }
