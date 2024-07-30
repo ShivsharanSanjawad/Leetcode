@@ -78,6 +78,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0400-nth-digit](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Interactive
 |  |
 | ------- |
@@ -97,6 +98,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0283-move-zeroes](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0861-flipping-an-image](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0861-flipping-an-image) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0948-sort-an-array) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1603-running-sum-of-1d-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1603-running-sum-of-1d-array) |
