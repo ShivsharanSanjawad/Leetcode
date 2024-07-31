@@ -9,29 +9,52 @@
  * }
  */
 class Solution {
+    public ListNode mid(ListNode head){
+        ListNode slow = head ; 
+        ListNode fast = head ; 
+        while(fast!=null&&fast.next!=null){
+            slow = slow.next ; 
+            fast = fast.next.next ;
+        }
+        return slow ;
+    }
+    public ListNode reverse(ListNode head){
+       ListNode prev = null ; 
+       ListNode curr = head ;
+       ListNode next = curr.next ;
+       while(curr!=null){
+            curr.next = prev ; 
+            prev = curr ; 
+            curr = next ;
+            if(next!=null)
+            next = next.next ;
+       }
+       return prev ;
+
+    }
     public void reorderList(ListNode head) {
         if(head.next==null)
         return ;
-            ArrayList<Integer> a = new ArrayList<>() ; 
-            ListNode temp = head ; 
-            while(temp!=null){
-                a.add(temp.val) ; 
-                temp = temp.next ;
-            }
-            int s = 1; 
-            int e = a.size()-1 ;
-                temp = head ;
-                ListNode prev =null;
-            while(e>=s){
-                temp.next = new ListNode(a.get(e--)) ; 
-                temp = temp.next ; 
-                prev = temp ;
-                if(e!=s){
-                temp.next = new ListNode(a.get(s++)) ;
-                temp = temp.next ;
-                }
-            }
-            prev.next = null;
+        ListNode mid = mid(head) ;
+        
+        ListNode rev = reverse(mid) ;
+        ListNode temp = head ; 
+        ListNode prev = temp ; 
+        ListNode next = temp.next ;
+        ListNode x = null ;
+        while(temp!=mid){
+            temp.next = rev ; 
+            x = rev.next ;
+            rev.next = next ;
+            prev = temp;
+            temp = next ;
+            rev = x ;
+            next = next.next ;
+        }
+        if(temp!=null){
+            temp.next = null ;
+        }
+        
             
 
     }
