@@ -11,6 +11,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0007-reverse-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0012-integer-to-roman) |
+| [0069-sqrtx](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0204-count-primes) |
@@ -72,6 +73,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0367-valid-perfect-square) |
