@@ -54,6 +54,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0202-happy-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0268-missing-number) |
 | [0398-random-pick-index](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0398-random-pick-index) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2502-sort-the-people) |
 ## String
@@ -108,6 +109,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0948-sort-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0948-sort-an-array) |
 | [1185-find-in-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1720-crawler-log-folder](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -203,6 +205,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0268-missing-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0948-sort-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0948-sort-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2502-sort-the-people) |
 ## Heap (Priority Queue)
