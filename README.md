@@ -131,6 +131,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2722-prime-in-diagonal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2792-neighboring-bitwise-xor](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2836-neither-minimum-nor-maximum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
@@ -220,6 +221,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2502-sort-the-people) |
+| [2836-neither-minimum-nor-maximum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
