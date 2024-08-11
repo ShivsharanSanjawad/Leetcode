@@ -4,7 +4,7 @@ class Solution {
         int z = nums.size() - 1 ; 
         int count = 0 ;
         int a[] = new int[k + 1] ;
-        System.out.println(Arrays.toString(a)) ;
+       // System.out.println(Arrays.toString(a)) ;
         while (z >= 0) {
             if (x == k) {
                 return count ;
