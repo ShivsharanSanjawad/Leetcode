@@ -72,6 +72,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1720-crawler-log-folder](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1720-crawler-log-folder) |
 | [2032-largest-odd-number-in-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [2470-removing-stars-from-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2502-sort-the-people) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 ## Binary Search
@@ -149,6 +150,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2048-build-array-from-permutation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2386-min-max-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2386-min-max-game) |
+| [2470-removing-stars-from-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2645-pass-the-pillow](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2645-pass-the-pillow) |
 ## Prefix Sum
 |  |
@@ -313,6 +315,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0234-palindrome-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1720-crawler-log-folder](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1720-crawler-log-folder) |
+| [2470-removing-stars-from-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Greedy
 |  |
