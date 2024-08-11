@@ -60,6 +60,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2502-sort-the-people) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 ## String
 |  |
 | ------- |
@@ -133,6 +134,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2722-prime-in-diagonal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2792-neighboring-bitwise-xor](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
@@ -301,6 +303,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2792-neighboring-bitwise-xor](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Stack
