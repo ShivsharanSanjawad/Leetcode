@@ -2,10 +2,7 @@
  * Note: The returned array must be malloced, assume caller calls free().
  */
 int* divisibilityArray(char * word, int m, int* returnSize){
-    int i ;
-    for(i = 0 ; word[i]!=0;i++){
-
-    }
+    int i = strlen(word) ;
     int *a = (int*)malloc(sizeof(int)*i) ;
     *returnSize = i ;
     long l = 0 ;
