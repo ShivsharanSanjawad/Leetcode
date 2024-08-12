@@ -1,26 +1,11 @@
 void moveZeroes(int* nums, int n) {
-    if(n==1)
-        return ;
-        int i = 0 ; 
-        int j = 0; 
-        while(j<n){
-            if(i<n){
-              if(nums[i]==0){
-                    while(j<n&&nums[j]==0){
-                        j++ ;
-                    }if(j!=n){
-                    nums[i] = nums[j] ;
-                    nums[j] = 0 ;
-                    }
-
-              }
-              i++ ; 
-              if(j<i){
-                j= i; 
-              }
-            }
+    int x = 0 ; 
+    for(int i = 0 ; i<n ;i++){
+        if(nums[i]!=0){
+            int temp = nums[i] ; 
+            nums[i] = nums[x] ; 
+            nums[x] =temp;
+           x++ ;
         }
-        for( ; i<n ; i++){
-            nums[i] = 0 ;
-        }
+    }
 }
