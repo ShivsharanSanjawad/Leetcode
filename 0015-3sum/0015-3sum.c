@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-#define MAX_TRIPLETS 10000
+#define MAX_TRIPLETS 20000
 
 int** ans;
 int z;
@@ -25,7 +25,7 @@ void twosum(int* nums, int size, int sum, int x) {
         if (sum == temp) {
             if (z >= MAX_TRIPLETS) {
                 // Optional: Resize ans if necessary
-                 ans = (int**)realloc(ans, sizeof(int*) * (z + MAX_TRIPLETS));
+                 ans = (int**)realloc(ans, sizeof(int*) * ( MAX_TRIPLETS+10000));
             }
             int* add = (int*)malloc(sizeof(int) * 3);
             if (add == NULL) return;  // Check for allocation failure
