@@ -74,10 +74,3 @@ int** threeSum(int* nums, int numsSize, int* returnSize, int** returnColumnSizes
     return ans;
 }
 
-void freeThreeSum(int** ans, int* returnColumnSizes, int returnSize) {
-    for (int i = 0; i < returnSize; i++) {
-        free(ans[i]);
-    }
-    free(ans);
-    free(returnColumnSizes);
-}
