@@ -8,7 +8,7 @@ int* divisibilityArray(char * word, int m, int* returnSize){
     long l = 0 ;
     for(int i = 0 ; i<size ; i++){
             l = ((10*l)+word[i]-'0')%m ; 
-            if(l==0){
+            if(!l){
                 a[i] = 1; 
             }else{
                 a[i]=0 ;
