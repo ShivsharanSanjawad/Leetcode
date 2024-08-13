@@ -24,11 +24,10 @@ void twosum(int* nums, int size, int sum, int x) {
         int temp = nums[x] + nums[e];
         if (sum == temp) {
             if (z >= MAX_TRIPLETS) {
-                // Optional: Resize ans if necessary
                  ans = (int**)realloc(ans, sizeof(int*) * ( 20000));
             }
             int* add = (int*)malloc(sizeof(int) * 3);
-            if (add == NULL) return;  // Check for allocation failure
+            if (add == NULL) return;  
             add[0] = nums[x];
             add[1] = nums[e];
             add[2] = -sum;
