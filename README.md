@@ -361,6 +361,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [1254-deepest-leaves-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [2384-root-equals-sum-of-children](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -373,4 +374,5 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [1254-deepest-leaves-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [2384-root-equals-sum-of-children](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
