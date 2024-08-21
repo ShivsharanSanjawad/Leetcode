@@ -29,6 +29,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0633-sum-of-square-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0897-prime-palindrome](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0897-prime-palindrome) |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -360,6 +361,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 ## Tree
 |  |
 | ------- |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [2384-root-equals-sum-of-children](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -373,6 +375,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 ## Binary Tree
 |  |
 | ------- |
+| [1194-path-in-zigzag-labelled-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [2384-root-equals-sum-of-children](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
