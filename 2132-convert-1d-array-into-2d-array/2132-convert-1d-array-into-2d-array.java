@@ -10,14 +10,10 @@ class Solution {
         }
         this.a = original ; 
         int ans [][] = new int[m][n] ; 
-        int z  = 0 ; 
         for(int i = 0 ; i<m ; i++){
             for(int j = 0 ; j<n ; j++){
-                if(z>=original.length){
-                    return ans ; 
-                }
+              
                 ans[i][j] = get() ; 
-                z++ ; 
             }
         }
         return ans ; 
