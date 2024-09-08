@@ -137,6 +137,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1741-sort-array-by-increasing-frequency](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1803-average-waiting-time) |
+| [1833-find-the-highest-altitude](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -179,6 +180,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Recursion
 |  |
