@@ -112,6 +112,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0033-search-in-rotated-sorted-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0136-single-number) |
@@ -199,6 +200,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Enumeration
 |  |
@@ -310,6 +312,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0948-sort-an-array) |
