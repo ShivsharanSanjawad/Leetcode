@@ -290,6 +290,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0237-delete-node-in-a-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0382-linked-list-random-node) |
+| [0725-split-linked-list-in-parts](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
