@@ -26,7 +26,7 @@ class Solution {
       //  System.out.println(n) ;
         int x= n/k ; 
         int y = n% k ;
-        System.out.println(x+" "+y) ;
+       // System.out.println(x+" "+y) ;
         ListNode []a =  new ListNode[k] ; 
         int z = 0 ; 
         ListNode prev = null ; 
