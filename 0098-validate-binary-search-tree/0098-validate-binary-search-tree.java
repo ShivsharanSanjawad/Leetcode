@@ -15,21 +15,21 @@
  */
 class Solution {
     boolean flag = true ; 
-  //  int j = 0 ;
+    int j = 0 ;
     public void inorder(TreeNode root){
         if(root==null){
             return  ; 
         }
         inorder(root.left) ; 
-        if(pre>=root.val){
+        if(pre>=(long)root.val&&j!=0){
             this.flag = false ;
         }else this.pre = root.val ;
-      //  j++ ;
+        j++ ;
         inorder(root.right) ; 
         
       //  j++ ; 
     }
-    long pre = Long.MIN_VALUE   ; 
+    long pre = Integer.MIN_VALUE   ; 
     public boolean isValidBST(TreeNode root) {
         if(root.left==null&&root.right==null)
         return true ;
