@@ -39,6 +39,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2155-find-missing-observations) |
+| [2448-count-number-of-bad-pairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2645-pass-the-pillow](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2722-prime-in-diagonal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2722-prime-in-diagonal) |
@@ -64,6 +65,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1752-arithmetic-subarrays) |
+| [2448-count-number-of-bad-pairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2502-sort-the-people](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2502-sort-the-people) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -153,6 +155,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2155-find-missing-observations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2155-find-missing-observations) |
 | [2386-min-max-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2386-min-max-game) |
 | [2411-spiral-matrix-iv](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2448-count-number-of-bad-pairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2502-sort-the-people](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2502-sort-the-people) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2722-prime-in-diagonal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2722-prime-in-diagonal) |
@@ -404,6 +407,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | ------- |
 | [0169-majority-element](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0948-sort-an-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Tree
 |  |
 | ------- |
