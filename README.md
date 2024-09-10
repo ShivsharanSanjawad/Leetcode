@@ -419,6 +419,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1254-deepest-leaves-sum) |
@@ -429,6 +430,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1484-linked-list-in-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -442,6 +444,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1254-deepest-leaves-sum) |
