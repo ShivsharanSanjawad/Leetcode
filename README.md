@@ -66,6 +66,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1752-arithmetic-subarrays) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2502-sort-the-people](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2502-sort-the-people) |
@@ -82,6 +83,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0537-complex-number-multiplication](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1720-crawler-log-folder](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
@@ -144,6 +146,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1720-crawler-log-folder](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1752-arithmetic-subarrays) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1803-average-waiting-time) |
 | [1833-find-the-highest-altitude](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1833-find-the-highest-altitude) |
@@ -358,6 +361,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1054-complement-of-base-10-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1054-complement-of-base-10-integer) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -413,6 +417,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | ------- |
 | [0169-majority-element](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0948-sort-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Tree
