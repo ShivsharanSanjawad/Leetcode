@@ -139,6 +139,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0948-sort-an-array) |
 | [1185-find-in-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1185-find-in-mountain-array) |
+| [1435-xor-queries-of-a-subarray](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -199,6 +200,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1435-xor-queries-of-a-subarray](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -361,6 +363,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0861-flipping-an-image) |
 | [1054-complement-of-base-10-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1054-complement-of-base-10-integer) |
+| [1435-xor-queries-of-a-subarray](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
