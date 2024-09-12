@@ -5,7 +5,7 @@ class Solution {
         for(int  i= 1 ; i<arr.length ; i++ ){
             a[i] = arr[i]^a[i-1]; 
         }
-        System.out.println(Arrays.toString(a)) ;
+        //System.out.println(Arrays.toString(a)) ;
         int []ans  = new int[queries.length] ; 
         for(int i = 0 ; i<queries.length ; i++){
             if(queries[i][0]!=0)
