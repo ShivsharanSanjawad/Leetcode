@@ -167,6 +167,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2411-spiral-matrix-iv](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2502-sort-the-people](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2705-minimum-impossible-or](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2705-minimum-impossible-or) |
@@ -374,6 +375,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2705-minimum-impossible-or](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2705-minimum-impossible-or) |
 | [2792-neighboring-bitwise-xor](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
@@ -473,6 +475,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 ## Brainteaser
 |  |
 | ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2705-minimum-impossible-or](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2705-minimum-impossible-or) |
 <!---LeetCode Topics End-->
