@@ -1,5 +1,8 @@
 class Solution {
     public int findMinDifference(List<String> timePoints) {
+        if((timePoints.size())>1440){
+            return 0 ; 
+        }
         Collections.sort(timePoints);
            // System.out.println(timePoints) ;
         int min = Integer.MAX_VALUE ;
