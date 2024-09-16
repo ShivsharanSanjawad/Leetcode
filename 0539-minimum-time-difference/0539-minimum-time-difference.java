@@ -1,4 +1,8 @@
 class Solution {
+    public int get(String s){
+            int x = ((s.charAt(0) - '0')*10 + s.charAt(1) -'0')*60 + (s.charAt(3)-'0')*10 + s.charAt(4) -'0' ;  
+            return x;
+    }
     public int findMinDifference(List<String> timePoints) {
         if((timePoints.size())>1440){
             return 0 ; 
@@ -8,8 +12,7 @@ class Solution {
         int min = Integer.MAX_VALUE ;
         int i ; 
         for( i = 1 ; i<timePoints.size() ; i++){
-        int x = (Integer.parseInt(timePoints.get(i).substring(0,2)) - Integer.parseInt(timePoints.get(i-1).substring(0,2)))*60 + 
-                Integer.parseInt(timePoints.get(i).substring(3,5)) - Integer.parseInt(timePoints.get(i-1).substring(3,5)) ;
+        int x = get(timePoints.get(i)) - get(timePoints.get(i-1)) ;
         if(x>720){
             x = 1440 - x ; 
         }
@@ -18,8 +21,7 @@ class Solution {
         }
 
         }
-        int x = (Integer.parseInt(timePoints.get(i-1).substring(0,2)) - Integer.parseInt(timePoints.get(0).substring(0,2)))*60 + 
-                Integer.parseInt(timePoints.get(i-1).substring(3,5)) - Integer.parseInt(timePoints.get(0).substring(3,5)) ;
+         int x = get(timePoints.get(i-1)) - get(timePoints.get(0)) ;
         if(x>720){
             x = 1440 - x ; 
         }
