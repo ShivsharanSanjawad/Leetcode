@@ -26,6 +26,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0441-arranging-coins](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0504-base-7) |
 | [0537-complex-number-multiplication](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0593-valid-square](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -83,6 +84,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0166-fraction-to-recurring-decimal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0389-find-the-difference](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0389-find-the-difference) |
 | [0537-complex-number-multiplication](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1720-crawler-log-folder](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -142,6 +144,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0349-intersection-of-two-arrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0539-minimum-time-difference](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0861-flipping-an-image](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0948-sort-an-array) |
@@ -291,6 +294,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0349-intersection-of-two-arrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0414-third-maximum-number) |
+| [0539-minimum-time-difference](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0948-sort-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
