@@ -470,6 +470,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0098-validate-binary-search-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1484-linked-list-in-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
@@ -499,4 +500,8 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2705-minimum-impossible-or](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2705-minimum-impossible-or) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
