@@ -350,6 +350,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0328-odd-even-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0725-split-linked-list-in-parts](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -479,6 +480,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0129-sum-root-to-leaf-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1254-deepest-leaves-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1484-linked-list-in-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
@@ -513,4 +515,8 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
