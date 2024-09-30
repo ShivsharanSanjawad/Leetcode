@@ -160,6 +160,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0948-sort-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0948-sort-an-array) |
 | [1185-find-in-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -295,6 +296,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0295-find-median-from-data-stream](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0729-my-calendar-i) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Sorting
 |  |
 | ------- |
@@ -420,6 +422,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1720-crawler-log-folder](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
