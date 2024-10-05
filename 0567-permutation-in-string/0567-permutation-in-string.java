@@ -9,6 +9,7 @@ class Solution {
         int b[] = new int[26] ; 
         int z = s2.length() ;
         while(i<s2.length()){
+            b = new int[26] ;
             boolean flag = true ;
             for(int j = i ; j<i+k &&j<z ; j++){
                 b[s2.charAt(j)-'a'] +=1 ; 
@@ -23,7 +24,7 @@ class Solution {
                 return true ;
             }
                 i++ ;
-            Arrays.fill(b,0);
+           // Arrays.fill(b,0);
         }
         return false ;
     }
