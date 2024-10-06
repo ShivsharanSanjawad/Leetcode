@@ -102,6 +102,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1720-crawler-log-folder](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2032-largest-odd-number-in-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
@@ -182,6 +183,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1803-average-waiting-time) |
 | [1833-find-the-highest-altitude](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1923-sentence-similarity-iii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -302,6 +304,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0633-sum-of-square-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1923-sentence-similarity-iii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Design
