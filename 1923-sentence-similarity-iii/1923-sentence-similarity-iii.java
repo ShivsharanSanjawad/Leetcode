@@ -40,8 +40,8 @@ class Solution {
             return true ;
     }
     public boolean checkStart(String[]x , String y[]){
-       System.out.println( Arrays.toString(x)) ; 
-   System.out.println( Arrays.toString(y)) ;
+     //  System.out.println( Arrays.toString(x)) ; 
+   //System.out.println( Arrays.toString(y)) ;
       int e1 = x.length-1 ; 
         int e2 = y.length -1 ; 
         while(e2>=0){
@@ -54,8 +54,8 @@ class Solution {
         return true ;
     }
     public boolean checkEnd(String x[] , String y[]){
-         System.out.println( Arrays.toString(x)) ; 
-   System.out.println( Arrays.toString(y)) ;
+       //  System.out.println( Arrays.toString(x)) ; 
+  // System.out.println( Arrays.toString(y)) ;
             int s1 = 0 ; 
             int s2 = 0 ; 
             int e2 = y.length;
