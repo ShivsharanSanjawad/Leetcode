@@ -12,11 +12,12 @@ class RecentCounter {
         ans.add(t) ; 
         int i   = 0 ; 
         int j = ans.size() ; 
-        while(i<j){
-            if((t-ans.get(i))<=3000){
-                return j - i ; 
+        while(ans.size()>0){
+            if(t-ans.get(0)<=3000){
+                return ans.size() ; 
             }
-            i++ ; 
+            i++ ;
+            ans.remove(0) ;
         }
         return  j-i ;
     }
