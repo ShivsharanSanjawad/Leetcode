@@ -166,6 +166,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0539-minimum-time-difference](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0948-sort-an-array) |
@@ -319,6 +320,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0303-range-sum-query-immutable](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Sorting
@@ -384,6 +386,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0725-split-linked-list-in-parts](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0859-design-circular-deque](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -411,6 +414,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
