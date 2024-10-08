@@ -316,6 +316,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0303-range-sum-query-immutable](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Sorting
 |  |
@@ -350,6 +351,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0969-number-of-recent-calls](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0969-number-of-recent-calls) |
 ## Geometry
 |  |
 | ------- |
@@ -406,6 +408,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0859-design-circular-deque) |
+| [0969-number-of-recent-calls](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
