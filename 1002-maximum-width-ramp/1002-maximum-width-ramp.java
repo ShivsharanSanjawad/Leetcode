@@ -9,11 +9,9 @@ class Solution {
         int i = 0 ; 
         int j = 0 ; 
         while(j<nums.length){
-        while(j>i){
             if(prefix[j]<nums[i]){
                 i++ ; 
-            }else break ;
-        }
+               }
         if((j-i)>max){
             max = j-i ;
         }
