@@ -8,8 +8,6 @@ class Solution {
         while(k>0){
             int x = maxHeap.poll() ; 
             score +=x ;
-           // System.out.println(x);
-          // System.out.println(Math.ceil(x/3));
             maxHeap.add((int)Math.ceil(x/3.0)) ;
             k-- ;
         }
