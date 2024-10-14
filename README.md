@@ -212,6 +212,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2705-minimum-impossible-or](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2705-minimum-impossible-or) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
@@ -366,6 +367,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0948-sort-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0948-sort-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Data Stream
 |  |
 | ------- |
@@ -491,6 +493,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2032-largest-odd-number-in-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Reservoir Sampling
 |  |
 | ------- |
