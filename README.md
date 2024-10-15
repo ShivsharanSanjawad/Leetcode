@@ -114,6 +114,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2502-sort-the-people](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2502-sort-the-people) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -322,6 +323,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Design
 |  |
 | ------- |
@@ -494,6 +496,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Reservoir Sampling
 |  |
 | ------- |
