@@ -170,6 +170,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0539-minimum-time-difference](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0729-my-calendar-i) |
+| [0747-min-cost-climbing-stairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0859-design-circular-deque](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0861-flipping-an-image) |
@@ -274,6 +275,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 ## Enumeration
 |  |
 | ------- |
