@@ -35,6 +35,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0856-consecutive-numbers-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [0897-prime-palindrome](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0897-prime-palindrome) |
+| [1010-powerful-integers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1010-powerful-integers) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1674-minimum-operations-to-make-array-equal) |
@@ -72,6 +73,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0567-permutation-in-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1010-powerful-integers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1010-powerful-integers) |
 | [1256-rank-transform-of-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -286,6 +288,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | ------- |
 | [0204-count-primes](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0204-count-primes) |
 | [0856-consecutive-numbers-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0856-consecutive-numbers-sum) |
+| [1010-powerful-integers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1010-powerful-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Number Theory
 |  |
