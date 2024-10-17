@@ -3,7 +3,7 @@ class Solution {
         HashSet<Integer> h = new HashSet<>() ;
         int rem10 = 10%k ; 
         int x = 1 ; 
-        for(int i =1 ; i<100000 ; i++){
+        for(int i =1 ; !h.contains(x); i++){
             if(h.contains(x)){
                 return -1 ;
             }
