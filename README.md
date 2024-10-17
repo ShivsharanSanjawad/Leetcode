@@ -49,6 +49,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2155-find-missing-observations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2155-find-missing-observations) |
 | [2448-count-number-of-bad-pairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2645-pass-the-pillow](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2722-prime-in-diagonal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2722-prime-in-diagonal) |
@@ -293,6 +294,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0856-consecutive-numbers-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [1010-powerful-integers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1010-powerful-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2541-sum-of-number-and-its-reverse](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 ## Number Theory
 |  |
 | ------- |
