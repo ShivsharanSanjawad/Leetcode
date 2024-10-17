@@ -30,6 +30,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0539-minimum-time-difference](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0593-valid-square](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0670-maximum-swap](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0670-maximum-swap) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0856-consecutive-numbers-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0856-consecutive-numbers-sum) |
 | [0897-prime-palindrome](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0897-prime-palindrome) |
@@ -495,6 +496,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | ------- |
 | [0179-largest-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1304-longest-happy-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2032-largest-odd-number-in-string) |
