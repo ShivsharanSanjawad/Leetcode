@@ -1,3 +1,5 @@
+// will revisit and try again . 
+// idea - find the non necessary pairs and in the neccessary pairs too find redudant one , and count accordingly , in pairs can be (1<<redudant)*(1<<non necessary) for non repeating . 
 class Solution {
     // public ArrayList<Integer> get(int []nums){
     //     int or = 0 ;
