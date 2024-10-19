@@ -5,7 +5,7 @@ class Solution {
         int x = 1 ;
         for(int i = 0 ; i<a.length-x; i+=x){
             int j =0 ; 
-            a[j+i+1] = '1';
+            a[i+1] = '1';
             for( j = 0 ; j<(i>>1) ; j++){
                 a[j+i+2] =a[j] ; 
             }
