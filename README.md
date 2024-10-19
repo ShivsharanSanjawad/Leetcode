@@ -112,6 +112,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1304-longest-happy-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -244,6 +245,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0861-flipping-an-image](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0861-flipping-an-image) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -281,6 +283,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0231-power-of-two](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0390-elimination-game) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
