@@ -1,48 +1,52 @@
-import java.util.*;
-class Solution {
-    public boolean perform(char s , char t,char operation){
-        if(s!='t'&&s!='f'){
-            return t=='t'?true:false ;
-        }
-        if(operation=='&'){
-            return s=='t'&&t=='t' ;
-        }
-        if(operation=='|'){
-            return s=='t'||t=='t' ;
-        }
-        if(operation=='!'){
-            return s=='t'?false:true;
-        }
-        return t=='t'?true:false;
-    }
-    public boolean parseBoolExpr(String s) {
-        Stack<Character> st = new Stack<>() ;
-        int n = s.length()-1;
+import java.util.Stack;
 
-        for(int i = n ;i>=0 ; i--){
-            if(s.charAt(i)=='|'||s.charAt(i)=='&'||s.charAt(i)=='!'){
-                boolean curr = s.charAt(i)=='|'?false:true ;
-                while(!st.isEmpty()&&st.peek()!=')'){
-                    curr = perform(st.pop(),curr==true?'t':'f',s.charAt(i)) ;
+class Solution {
+    public char perform(char s, char t, char operation) {
+        if (s != 't' && s != 'f') {
+            return t == 't' ? 't' : 'f';
+        }
+        if (operation == '&') {
+            return (s == 't' && t == 't') ? 't' : 'f';
+        }
+        if (operation == '|') {
+            return (s == 't' || t == 't') ? 't' : 'f';
+        }
+        if (operation == '!') {
+            return s == 't' ? 'f' : 't';
+        }
+        return t == 't' ? 't' : 'f';
+    }
+
+    public boolean parseBoolExpr(String s) {
+        Stack<Character> st = new Stack<>();
+        int n = s.length() - 1;
+
+        for (int i = n; i >= 0; i--) {
+            char c = s.charAt(i);
+            if (c == '|' || c == '&' || c == '!') {
+                char curr = c == '|' ? 'f' : 't'; 
+                while (!st.isEmpty() && st.peek() != ')') {
+                    curr = perform(st.pop(), curr, c);
                 }
                 st.pop();
-                st.push(curr==true?'t':'f') ;
-            }else if(s.charAt(i)==','){
-                continue ;
-            }else
-            st.push(s.charAt(i));
+                st.push(curr); 
+            } else if (c == ',') {
+                continue;
+            } else {
+                st.push(c);
+            }
         }
-        boolean curr = st.peek()=='t'?true:false;
-        if(st.size()!=1){
-            if(st.peek()=='&'||st.peek()=='|'){
-                char x = st.peek() ;
-                curr = true ;
-                while(!st.isEmpty()){
-                    curr = perform(st.pop(),curr==true?'t':'f',x);
+
+        char curr = st.peek();
+        if (st.size() != 1) {
+            if (st.peek() == '&' || st.peek() == '|') {
+                char x = st.peek();
+                curr = 't';
+                while (!st.isEmpty()) {
+                    curr = perform(st.pop(), curr, x);
                 }
             }
         }
-        return curr ;
+        return curr == 't';
     }
-  
 }
