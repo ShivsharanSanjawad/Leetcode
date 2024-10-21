@@ -4,11 +4,13 @@ class Solution:
             if(n==len(s)):
                 return 0 
             ma = 0
+            
             for i in range(n,len(s)):
-                if s[n:i+1] in curr_set :
+                string = s[n:i+1]
+                if string in curr_set :
                     continue 
-                curr_set.add(s[n:i+1])
+                curr_set.add(string)
                 ma = max(ma,1+solve(i+1,curr_set))
-                curr_set.remove(s[n:i+1])
+                curr_set.remove(string)
             return ma 
         return solve(0,set())
