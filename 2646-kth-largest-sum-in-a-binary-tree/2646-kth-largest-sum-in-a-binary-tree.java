@@ -16,7 +16,7 @@
 class Solution {
     public long kthLargestLevelSum(TreeNode root, int k) {
         Queue<TreeNode> q = new LinkedList<>() ; 
-        ArrayList<Long> a = new ArrayList<>() ;
+        PriorityQueue<Long> a = new PriorityQueue<>() ;
         q.add(root) ;
         while(!q.isEmpty()){
             int levelsize = q.size() ; 
@@ -33,10 +33,13 @@ class Solution {
             }
             a.add(sum);
         }
-        Collections.sort(a);
        if(a.size()<k){
         return -1;
        }
-        return a.get(a.size()-k);
+       while(a.size()!=k){
+         a.poll() ; 
+       }
+       return a.peek() ;
+        
     }
 }
