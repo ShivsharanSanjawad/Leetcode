@@ -33,11 +33,13 @@ class Solution {
             }
             a.add(sum);
         }
-       if(a.size()<k){
+        int x = a.size() ;
+       if(x<k){
         return -1;
        }
-       while(a.size()!=k){
+       while(x!=k){
          a.poll() ; 
+         x--;
        }
        return a.peek() ;
         
