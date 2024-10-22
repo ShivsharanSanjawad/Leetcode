@@ -14,7 +14,21 @@
  * }
  */
 class Solution {
+    public int level(TreeNode root){
+        if(root==null){
+            return 0 ;
+        }
+        if(root.left==null&&root.right==null){
+            return 1;
+        }
+        int left = 1 + level(root.left);
+        int right = 1 + level(root.right);
+        return Math.max(left,right);
+    }
     public long kthLargestLevelSum(TreeNode root, int k) {
+        if(level(root)<k){
+            return -1 ;
+        }
         Queue<TreeNode> q = new LinkedList<>() ; 
         ArrayList<Long> a = new ArrayList<>() ;
         q.add(root) ;
@@ -34,9 +48,6 @@ class Solution {
             a.add(sum);
         }
         Collections.sort(a);
-       if(a.size()<k){
-        return -1;
-       }
         return a.get(a.size()-k);
     }
 }
