@@ -660,6 +660,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0176-second-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1317-monthly-transactions-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1317-monthly-transactions-i) |
 | [2087-confirmation-rate](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2087-confirmation-rate) |
