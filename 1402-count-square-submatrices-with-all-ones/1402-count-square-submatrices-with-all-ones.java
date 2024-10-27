@@ -1,5 +1,5 @@
 //// copying as of now , will see tomorrow after reaching hometown , currently travelling . 
-//// 
+//// copy count till now - 2 
 
 class Solution {
     public int countSquares(int[][] matrix) {
