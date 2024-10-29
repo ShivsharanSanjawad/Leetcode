@@ -244,6 +244,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2722-prime-in-diagonal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2792-neighboring-bitwise-xor](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
@@ -306,6 +307,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0747-min-cost-climbing-stairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -331,6 +333,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2411-spiral-matrix-iv](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2722-prime-in-diagonal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2722-prime-in-diagonal) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
