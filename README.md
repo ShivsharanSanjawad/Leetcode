@@ -12,6 +12,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0009-palindrome-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0189-rotate-array) |
@@ -300,6 +301,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -685,4 +687,8 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1002-maximum-width-ramp) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
