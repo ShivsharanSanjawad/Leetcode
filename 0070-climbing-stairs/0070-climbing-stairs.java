@@ -1,17 +1,11 @@
 class Solution {
-    int a[] ;
-    public int get(int n){
-        if(n<=1){
-            return 1; 
-        }
-        if(a[n]!=0){
-            return a[n] ;
-        }
-        a[n] = get(n-1)+get(n-2);
-        return a[n] ;
-    }
+    
     public int climbStairs(int n) {
-        a = new int[n+1];
-        return get(n);
+       int [] a = new int[n+1];
+       a[0] = a[1] = 1 ; 
+       for(int i =2 ; i<=n ; i++){
+            a[i] = a[i-1]+a[i-2];
+       }
+        return a[n];
     }
 }
