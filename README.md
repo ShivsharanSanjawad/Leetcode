@@ -168,6 +168,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0136-single-number) |
@@ -303,6 +304,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0403-frog-jump](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0403-frog-jump) |
@@ -536,6 +538,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0670-maximum-swap) |
