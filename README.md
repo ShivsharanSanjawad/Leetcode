@@ -184,6 +184,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0287-find-the-duplicate-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0403-frog-jump](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -304,6 +305,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0053-maximum-subarray](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0403-frog-jump](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0403-frog-jump) |
 | [0747-min-cost-climbing-stairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
