@@ -14,7 +14,7 @@ class Solution {
         if(!h.containsKey(n)){
             return false ;
         }
-         if(dp[h.get(n)][k]!=-1){
+        if(dp[h.get(n)][k]!=-1){
             return dp[h.get(n)][k]==1;
         }
      
