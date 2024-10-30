@@ -8,7 +8,7 @@ class Solution {
             return dp[i];
         }
         int max = 1;
-        for (int j = 0; j < i; j++) {
+        for (int j = i-1; j >=0; j--) {
             if (nums[i] > nums[j]) {
                 max = Math.max(max, get(nums, j) + 1);
             }
