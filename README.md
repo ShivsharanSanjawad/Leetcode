@@ -244,6 +244,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2554-minimum-total-distance-traveled](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -318,6 +319,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0747-min-cost-climbing-stairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2554-minimum-total-distance-traveled](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Enumeration
@@ -409,6 +411,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1752-arithmetic-subarrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1752-arithmetic-subarrays) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2502-sort-the-people) |
+| [2554-minimum-total-distance-traveled](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
