@@ -112,6 +112,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0537-complex-number-multiplication](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -713,4 +714,8 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0070-climbing-stairs) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
