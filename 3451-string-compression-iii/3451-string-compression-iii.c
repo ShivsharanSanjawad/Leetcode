@@ -1,5 +1,5 @@
 char* compressedString(char* word) {
-    char * s = malloc(strlen(word)*sizeof(char)*3) ;
+    char * s = malloc(strlen(word)*sizeof(char)*2 +100) ;
     int x = 0 ;  
     for(int i = 0 ; word[i]!=0;){
         char ch = word[i] ;
