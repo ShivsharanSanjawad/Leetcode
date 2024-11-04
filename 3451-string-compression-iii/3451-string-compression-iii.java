@@ -10,11 +10,13 @@ class Solution {
                 count++ ; 
             }
             while(count>9){
-                s.append(""+(9)+ch); 
+                s.append(9);
+                s.append(ch); 
                 count -=9 ; 
             }
             if(count!=0){
-                 s.append(""+(count)+ch); 
+                 s.append(count); 
+                 s.append(ch); 
             }
             //System.out.println(s);
          }
