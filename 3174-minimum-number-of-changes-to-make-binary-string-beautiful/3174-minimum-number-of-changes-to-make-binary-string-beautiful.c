@@ -9,7 +9,7 @@ int minChanges(char* s) {
             i++ ;
             temp++  ;
         }
-        if(temp&1==1){
+        if((temp&1)){
             s[i-1] = s[i] ; 
             flag = 1 ; 
             count ++ ;
