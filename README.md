@@ -536,6 +536,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [3044-minimum-operations-to-collect-elements](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3394-minimum-array-end](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3394-minimum-array-end) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Stack
 |  |
