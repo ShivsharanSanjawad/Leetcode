@@ -160,6 +160,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1185-find-in-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Interactive
 |  |
@@ -240,6 +241,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2132-convert-1d-array-into-2d-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2386-min-max-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2386-min-max-game) |
 | [2411-spiral-matrix-iv](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -417,6 +419,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1752-arithmetic-subarrays) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2502-sort-the-people) |
 | [2554-minimum-total-distance-traveled](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
