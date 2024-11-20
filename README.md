@@ -20,6 +20,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0204-count-primes](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0390-elimination-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0390-elimination-game) |
@@ -690,6 +691,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0292-nim-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2705-minimum-impossible-or](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2705-minimum-impossible-or) |
@@ -743,4 +745,8 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0812-rotate-string) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
