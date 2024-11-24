@@ -4,7 +4,7 @@ long long maxMatrixSum(int** matrix, int matrixSize, int* matrixColSize) {
         int count = 0 ; 
         int min = INT_MAX;
         int x =*matrixColSize ;
-        printf("%d",x);
+       // printf("%d",x);
         for(int i  = 0 ; i<matrixSize ;i++){
             for(int  j = 0 ; j<x ;j++){
                 sum +=abs(matrix[i][j]);
