@@ -41,25 +41,6 @@ class Solution {
         for(int i =1 ; i<ans.size();i++){
             sum+=ans.get(i);
         }
-
-
-
-
-
-
-        // int x = a.size() ; 
-        // if(a.size()%2!=0){
-        //     x -- ;
-        //     sum += a.get(a.size()-1);
-        // }
-        // for(int i  = 0 ; i<x ;i++){
-        //     sum =sum - a.get(i);
-        // }
-        // for(int i = 0 ; i<a.size();i++){
-        //     System.out.print(a.get(i)+" ");
-        // }
-        // System.out.println() ;
-       
         return sum;
     }
 }
