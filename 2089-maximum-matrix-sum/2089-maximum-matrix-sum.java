@@ -33,9 +33,6 @@ class Solution {
             }
         }
         Collections.sort(ans) ; 
-        if(ans.size()==0){
-            return sum;
-        }
         if(count%2==1){
             sum-=ans.get(0);
         }else{
