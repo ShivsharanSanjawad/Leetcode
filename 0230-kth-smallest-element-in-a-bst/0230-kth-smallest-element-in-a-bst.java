@@ -15,25 +15,20 @@
  */
 class Solution {
     
-    PriorityQueue<Integer> minheap ; 
+    ArrayList<Integer> a ; 
 
     public void add(TreeNode root){
         if(root==null){
             return ;
         }
         add(root.left);
-        minheap.add(root.val) ; 
+        a.add(root.val) ; 
         add(root.right);
     }
 
     public int kthSmallest(TreeNode root, int k) {
-        minheap = new PriorityQueue<>() ; 
+        a = new ArrayList<>() ;
         add(root);
-        while(k-1>0){
-            minheap.poll() ;
-            k-- ;
-        }
-        return minheap.poll();
-
+        return a.get(k-1);
     }
 }
