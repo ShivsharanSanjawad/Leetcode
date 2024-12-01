@@ -21,8 +21,8 @@ class Solution {
         if(root==null){
             return ;
         }
-        minheap.add(root.val) ; 
         add(root.left);
+        minheap.add(root.val) ; 
         add(root.right);
     }
 
