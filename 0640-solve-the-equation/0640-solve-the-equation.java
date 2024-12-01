@@ -70,7 +70,7 @@ class Solution {
                     i = j ; 
             }  
         }
-        System.out.println(xsum+"x="+csum) ;
+     //   System.out.println(xsum+"x="+csum) ;
         if((xsum==0)&&csum==0){
             return "Infinite solutions" ;
         }else if(xsum==0){
