@@ -1,10 +1,10 @@
 int isPrefixOfWord(char* s, char* k) {
-    int count = 0 ; 
+    char count = 0 ; 
     char prev = ' ';
-    for(int i = 0 ;s[i]!=0 ; i++){
+    for(char i = 0 ;s[i]!=0 ; i++){
         if(prev==' '){
             count ++ ;
-            int x = 0 ; 
+            char x = 0 ; 
             while(k[x]!=0&&s[x+i]==k[x]){
                     x++ ;
             }
