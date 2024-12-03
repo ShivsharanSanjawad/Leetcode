@@ -10,9 +10,7 @@ class Solution {
             x.append(" ") ;
             z = spaces[i] ;
         }
-        while(z<s.length()){
-            x.append(s.charAt(z++)) ;
-        }
+        x.append(s.substring(z,s.length()));
         return x.toString() ;
     }
 }
