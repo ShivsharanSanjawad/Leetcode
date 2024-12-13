@@ -100,6 +100,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -274,6 +275,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2586-longest-square-streak-in-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2705-minimum-impossible-or](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2705-minimum-impossible-or) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2722-prime-in-diagonal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2722-prime-in-diagonal) |
@@ -310,6 +312,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2411-spiral-matrix-iv](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2645-pass-the-pillow](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2645-pass-the-pillow) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Prefix Sum
 |  |
@@ -457,6 +460,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2586-longest-square-streak-in-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
@@ -472,6 +476,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Data Stream
 |  |
 | ------- |
