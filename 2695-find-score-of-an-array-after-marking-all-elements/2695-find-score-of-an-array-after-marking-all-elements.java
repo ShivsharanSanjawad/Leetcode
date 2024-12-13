@@ -4,9 +4,9 @@ class Solution {
         boolean [] visited = new boolean[nums.length] ; 
         PriorityQueue<int[]> q= new PriorityQueue<>((a,b)->{
             if(a[0]!=b[0]){
-                return Integer.compare(a[0],b[0]) ;
+                return a[0]-b[0] ;
             }
-            return Integer.compare(a[1],b[1]) ;
+            return a[1] - b[1] ;
         })  ;
         Arrays.fill(visited,false);
         for(int i= 0 ; i<nums.length;i++){
