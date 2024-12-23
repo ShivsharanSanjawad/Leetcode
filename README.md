@@ -676,6 +676,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1731-even-odd-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -705,6 +706,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1731-even-odd-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1731-even-odd-tree) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -726,6 +728,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1731-even-odd-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
