@@ -662,6 +662,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -685,6 +686,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -704,6 +706,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0100-same-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1254-deepest-leaves-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1484-linked-list-in-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -720,6 +723,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
