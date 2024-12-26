@@ -13,10 +13,10 @@ int get(int *nums , int n , int target , int i,int sum){
 int findTargetSumWays(int* nums, int numsSize, int target) {
         dp = malloc(sizeof(int*)*numsSize);
         for(int i = 0 ; i<numsSize ;i++){
-            dp[i] = malloc(sizeof(int)*3000);
+            dp[i] = malloc(sizeof(int)*2000);
         } 
         for(int i = 0 ; i<numsSize;i++){
-            for(int j = 0 ;j<3000;j++){
+            for(int j = 0 ;j<2000;j++){
                 dp[i][j] = -1 ;
             }
         }
