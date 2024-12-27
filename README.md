@@ -218,6 +218,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1063-best-sightseeing-pair](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1185-find-in-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1256-rank-transform-of-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -355,6 +356,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0403-frog-jump](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0403-frog-jump) |
 | [0494-target-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0494-target-sum) |
 | [0747-min-cost-climbing-stairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [1063-best-sightseeing-pair](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
