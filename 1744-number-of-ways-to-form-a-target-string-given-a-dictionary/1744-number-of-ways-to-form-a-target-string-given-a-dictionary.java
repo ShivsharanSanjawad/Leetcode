@@ -23,8 +23,9 @@ class Solution {
     for(int i = freq.length-1;i>=0;i--){
     for(int j = target.length()-1; j>=0 ;j--){
         int x = target.charAt(j) -'a';
-        dp[i][j] = dp[i+1][j] ;
+        if(freq[i][x]!=0)
         dp[i][j] = (dp[i][j] + dp[i+1][j+1]*freq[i][x]%MOD)%MOD ;
+        dp[i][j] = (dp[i][j] + dp[i+1][j] )%MOD ;
     }
     }
       return (int)dp[0][0];
