@@ -365,6 +365,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
+| [2562-count-ways-to-build-good-strings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
