@@ -5,7 +5,7 @@ class Solution {
        long sum = 0 ; 
        dp = new long[high+1] ; 
        Arrays.fill(dp,-1);
-       for(int i = high ;i>=low  ; i--){
+       for(int i = low ;i<=high  ; i++){
         sum = (sum+get(i,zero,one))%mod ;
        }
        return (int)sum; 
