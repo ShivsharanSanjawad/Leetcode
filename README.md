@@ -521,6 +521,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0061-rotate-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0143-reorder-list) |
@@ -687,6 +688,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0100-same-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -713,6 +715,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0098-validate-binary-search-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0101-symmetric-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -736,6 +739,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | ------- |
 | [0100-same-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0101-symmetric-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -758,6 +762,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0100-same-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
