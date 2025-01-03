@@ -271,6 +271,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2179-most-beautiful-item-for-each-query](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2232-adding-spaces-to-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2358-number-of-ways-to-split-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2386-min-max-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2386-min-max-game) |
 | [2411-spiral-matrix-iv](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -341,6 +342,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1940-maximum-xor-for-each-query](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2102-find-the-middle-index-in-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Recursion
