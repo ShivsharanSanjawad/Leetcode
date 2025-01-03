@@ -5,8 +5,7 @@ class Solution {
             return new ArrayList<String>() ;
         }
           h  = new HashMap<>() ;
-          String x = s.substring(0,10);
-          int n = getInt(x) ; 
+          int n = getInt(s) ; 
           h.put(n,1) ;
           for(int i = 10 ; i<s.length();i++){
                 n = updateInt(n,s.charAt(i)) ;
@@ -22,7 +21,7 @@ class Solution {
     }
     public int getInt(String s){
         int ans = 0 ; 
-        for(int i = 0 ; i<s.length();i++){
+        for(int i = 0 ; i<10;i++){
             switch(s.charAt(i)){
                 case 'A' ->{ans = ans|0 ;} 
                 case 'C' ->{ans = ans|1 ;}  
