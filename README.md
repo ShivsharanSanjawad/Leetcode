@@ -128,6 +128,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1304-longest-happy-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1508-longest-happy-prefix](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1524-string-matching-in-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -874,6 +875,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0812-rotate-string) |
+| [1508-longest-happy-prefix](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Game Theory
@@ -900,8 +902,10 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [1508-longest-happy-prefix](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [1508-longest-happy-prefix](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
