@@ -1,4 +1,5 @@
 class Solution {
+    // we can simply use String.contains() instead of kmp , but this is just for learning purpose 
     public boolean kmp(String x , String s){
         int lps[] = new int[s.length()+x.length()+1] ; 
         lps[0] = 0 ; 
