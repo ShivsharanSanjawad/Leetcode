@@ -155,6 +155,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3451-string-compression-iii) |
 ## Binary Search
 |  |
@@ -310,6 +311,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [3044-minimum-operations-to-collect-elements](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -829,6 +831,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0386-lexicographical-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -878,6 +881,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1508-longest-happy-prefix](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Game Theory
 |  |
 | ------- |
@@ -903,9 +907,11 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [1508-longest-happy-prefix](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1508-longest-happy-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [1508-longest-happy-prefix](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1508-longest-happy-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
