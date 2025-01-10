@@ -81,6 +81,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0567-permutation-in-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0952-word-subsets) |
 | [1010-powerful-integers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1010-powerful-integers) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -126,6 +127,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0640-solve-the-equation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0640-solve-the-equation) |
 | [0812-rotate-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1304-longest-happy-string) |
@@ -237,6 +239,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0861-flipping-an-image](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1063-best-sightseeing-pair) |
