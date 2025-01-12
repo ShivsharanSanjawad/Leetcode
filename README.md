@@ -28,6 +28,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0400-nth-digit](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0400-nth-digit) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0441-arranging-coins](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0441-arranging-coins) |
+| [0477-total-hamming-distance](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0504-base-7](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0504-base-7) |
 | [0537-complex-number-multiplication](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -229,6 +230,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0349-intersection-of-two-arrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0403-frog-jump](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0403-frog-jump) |
 | [0414-third-maximum-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0414-third-maximum-number) |
+| [0477-total-hamming-distance](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0518-coin-change-ii) |
@@ -617,6 +619,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0389-find-the-difference](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0861-flipping-an-image) |
 | [1054-complement-of-base-10-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1054-complement-of-base-10-integer) |
