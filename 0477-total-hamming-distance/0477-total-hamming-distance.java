@@ -7,8 +7,8 @@ class Solution {
             for(int j= 0 ; j<32;j++){
                 int x = temp&1 ;
                 if(x==1){
-                    one[j] +=1;
-                }else zero[j] +=1 ;
+                    one[j]++;
+                }else zero[j]++;
                 temp>>=1 ; 
             }
         }
