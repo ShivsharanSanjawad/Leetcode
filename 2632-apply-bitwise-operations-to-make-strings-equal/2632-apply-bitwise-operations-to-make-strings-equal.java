@@ -1,4 +1,8 @@
 class Solution {
+    // a simple idea is if i have one is s i can do whatever i want except that making all 
+    // terms to zero .. 
+    // so i can simply say that if i have 1 but if target don't have then false and vice versa too . 
+    // so other solution can be s.contains("1")==target.contains("1");
     public boolean makeStringsEqual(String s, String target) {
         int one = 0 ; 
         int zero = 0 ;
