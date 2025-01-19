@@ -883,6 +883,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0176-second-highest-salary](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0176-second-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1317-monthly-transactions-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1317-monthly-transactions-i) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2087-confirmation-rate](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2087-confirmation-rate) |
 ## Sliding Window
 |  |
