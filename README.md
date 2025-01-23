@@ -13,6 +13,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0012-integer-to-roman](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0189-rotate-array) |
@@ -624,6 +625,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -718,6 +720,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0089-gray-code) |
 | [0494-target-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
