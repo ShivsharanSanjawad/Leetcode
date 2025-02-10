@@ -1,16 +1,16 @@
 class Solution {
     public String clearDigits(String s) {
-        Stack<Character> st = new Stack<>() ; 
-        for(int i = 0 ;i<s.length();i++){
-            if(!(s.charAt(i)>96&&s.charAt(i)<127)){
-                st.pop() ; 
-            }else st.push(s.charAt(i)); 
+        char [] ans = new char[s.length()+1];
+        int x = 0 ;
+        for(int i=0 ;i<s.length();i++){
+            if(s.charAt(i)>96&&s.charAt(i)<127){
+                ans[x++] = s.charAt(i);
+            }else { 
+                if(x>0){
+                    x-- ;
+                }
+            } 
         }
-        StringBuilder sb = new StringBuilder() ; 
-        while(!st.isEmpty()){
-            sb.append(st.pop());
-        }
-        sb.reverse() ;
-        return sb.toString();
+        return new String(Arrays.copyOfRange(ans,0,x)) ;
     }
 }
