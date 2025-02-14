@@ -1,10 +1,10 @@
 class ProductOfNumbers {
     ArrayList<Long> a ; 
-    ArrayList<Integer> zero ;
+    PriorityQueue<Integer> zero ;
     public ProductOfNumbers() {
         a = new ArrayList<>() ;
         a.add(1L) ; 
-        zero = new ArrayList<>() ;
+        zero = new PriorityQueue<>(Collections.reverseOrder()) ;
     }
     
     public void add(int num) {
@@ -26,12 +26,8 @@ class ProductOfNumbers {
     }
     
     public boolean ok(int k){
-        for(int i= 0 ; i<zero.size();i++){
-            if(zero.get(i)>=k){
-                return false ;
-            }
-        }
-        return true ; 
+        if(zero.size()==0) return true ;
+       return zero.peek()<k ;
     }
 
 }
