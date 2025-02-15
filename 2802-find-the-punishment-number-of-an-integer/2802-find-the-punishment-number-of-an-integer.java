@@ -2,7 +2,7 @@ class Solution {
     HashMap<String,ArrayList<Integer>> dp;
     public int punishmentNumber(int n) {
         dp = new HashMap<>();
-        long sum =0 ; 
+        int sum =0 ; 
         for(int i = 1 ; i<=n;i++){
             ArrayList<Integer> x =isKaplekar(Long.toString((long)i*i)) ; 
             //System.out.println(x);
@@ -10,7 +10,7 @@ class Solution {
                 sum +=i*i ;
             }  
         }
-        return (int)sum;
+        return sum;
     }
     public ArrayList isKaplekar(String s){
       //  System.out.println(s);
