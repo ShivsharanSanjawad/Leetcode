@@ -4,7 +4,7 @@ class Solution {
         dp = new HashMap<>();
         int sum =0 ; 
         for(int i = 1 ; i<=n;i++){
-            ArrayList<Integer> x =isKaplekar(Long.toString((long)i*i)) ; 
+            ArrayList<Integer> x =isKaplekar(Integer.toString(i*i)) ; 
             //System.out.println(x);
             if(x.contains(i)){
                 sum +=i*i ;
