@@ -1,6 +1,7 @@
 class Solution {
-    HashMap<Integer,Integer> x ;
+    HashMap<String,ArrayList<Integer>> dp;
     public int punishmentNumber(int n) {
+        dp = new HashMap<>();
         long sum =0 ; 
         for(int i = 1 ; i<=n;i++){
             ArrayList<Integer> x =isKaplekar(Long.toString((long)i*i)) ; 
@@ -18,6 +19,9 @@ class Solution {
             a.add(Integer.parseInt(s));
             return a;
         }
+        if(dp.containsKey(s)){
+            return dp.get(s);
+        }
         ArrayList<Integer> ans = new ArrayList<>() ;
         ans.add(Integer.parseInt(s));
         for(int i =1 ;i<s.length();i++){
@@ -28,6 +32,7 @@ class Solution {
                 ans.add(y+x.get(j));
             }
         }
+        dp.put(s,ans) ;
         return ans ;
     }
 }
