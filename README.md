@@ -60,6 +60,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2645-pass-the-pillow](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2722-prime-in-diagonal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2722-prime-in-diagonal) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3371-harshad-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3371-harshad-number) |
@@ -737,6 +738,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Combinatorics
 |  |
 | ------- |
