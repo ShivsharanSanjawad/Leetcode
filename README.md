@@ -283,6 +283,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1786-count-the-number-of-consistent-strings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1803-average-waiting-time](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1803-average-waiting-time) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1835-decode-xored-permutation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1835-decode-xored-permutation) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -736,6 +737,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0089-gray-code](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0089-gray-code) |
 | [0494-target-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
