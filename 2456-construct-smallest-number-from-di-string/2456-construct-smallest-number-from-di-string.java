@@ -15,7 +15,7 @@ class Solution {
             pre[i] = x;
         }
         boolean [] used = new boolean[9] ;
-        System.out.println(Arrays.toString(pre));
+       // System.out.println(Arrays.toString(pre));
         for(int i=0;i<s.length();i++){
             if(s.charAt(i)=='D'){
                 int x = b.charAt(i-1) -'0' ;
