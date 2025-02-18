@@ -6,6 +6,7 @@ class Solution {
         int [] pre = new int[pattern.length()] ;
         for(int i=0;i<pattern.length();i++){
             int x = 0  ;
+            if(s.charAt(i)=='D') continue ;
             for(int j=i+1;j<pattern.length();j++){
                if(s.charAt(j)=='D'){
                 x++;
