@@ -5,6 +5,7 @@ class Solution {
         for(int i=s.length()-1;i>=0;i--){
             int y =s.charAt(i) -'0' ; 
             ans += (1L<<x)*y ;
+            x++;
         }
         return ans ;
     }
@@ -27,6 +28,7 @@ class Solution {
             h.put(x,0L) ;
         }
         int n = nums[0].length() ;
+        //System.out.println(h);
         for(long i=0;i<(1L<<n);i++){
             if(!h.containsKey(i)){
                 return toBinary(i,n) ;
