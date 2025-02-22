@@ -91,6 +91,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1064-smallest-integer-divisible-by-k](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -521,6 +522,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0859-design-circular-deque](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0969-number-of-recent-calls) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Sorting
@@ -800,6 +802,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0988-flip-equivalent-binary-trees](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1731-even-odd-tree) |
@@ -830,6 +833,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0988-flip-equivalent-binary-trees](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1254-deepest-leaves-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -847,6 +851,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0547-number-of-provinces](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1254-deepest-leaves-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -881,6 +886,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0988-flip-equivalent-binary-trees](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1194-path-in-zigzag-labelled-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1194-path-in-zigzag-labelled-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1731-even-odd-tree) |
