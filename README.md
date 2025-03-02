@@ -114,6 +114,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2586-longest-square-streak-in-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -345,6 +346,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2705-minimum-impossible-or](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2705-minimum-impossible-or) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2722-prime-in-diagonal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -518,6 +520,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Design
 |  |
