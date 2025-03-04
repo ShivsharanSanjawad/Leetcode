@@ -22,6 +22,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0231-power-of-two](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0390-elimination-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0390-elimination-game) |
@@ -426,6 +427,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0206-reverse-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0390-elimination-game) |
 | [1197-parsing-a-boolean-expression](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
