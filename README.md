@@ -59,6 +59,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2645-pass-the-pillow](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2645-pass-the-pillow) |
+| [2649-count-total-number-of-colored-cells](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2722-prime-in-diagonal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
