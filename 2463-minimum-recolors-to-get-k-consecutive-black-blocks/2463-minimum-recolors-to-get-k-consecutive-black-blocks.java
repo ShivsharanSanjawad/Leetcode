@@ -1,21 +1,27 @@
 class Solution {
     public int minimumRecolors(String s, int k) {
-        int min = Integer.MAX_VALUE ; 
-        for(int i=0;i<=s.length()-k;i++){
-            int count = 0 ;
-            for(int j=i;j<i+k;j++){
-                if(s.charAt(j)=='B'){
-                    count++ ;
-                }
-            }
-            int x = k-count ; 
-            if(x==0){
-                return 0 ;
-            }
-            if(min>x){
-                min = x;
+        int count = 0 ;
+        for(int i=0;i<k;i++){
+            if(s.charAt(i)=='B'){
+                count++ ;
             }
         }
-        return min ;
+        int max = count ;
+        if(max>=k) return 0 ; 
+        for(int j=k;j<s.length();j++){
+           if(s.charAt(j-k)=='B'&&s.charAt(j)!='B'){
+                count--;
+           }
+           if(s.charAt(j)=='B'&&s.charAt(j-k)!='B'){
+                count++ ; 
+           }
+           if(count>max){
+              max = count ;
+           }
+        }
+        if(max>k){
+            max = k;
+        }
+        return k-max ;
     }
 }
