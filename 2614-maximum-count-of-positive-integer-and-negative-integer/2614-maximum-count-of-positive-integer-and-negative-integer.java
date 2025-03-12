@@ -28,7 +28,7 @@ class Solution {
     public int maximumCount(int[] nums) {
         int x = lowerBound(nums) ; 
         int y = upperBound(nums) ;
-        System.out.println(x+" "+y+" "+nums.length); 
+        //System.out.println(x+" "+y+" "+nums.length); 
         if(x==-1&&y==-1) return nums.length;
         if(y==-1) y = nums.length ;
         return Math.max(x,nums.length-y);
