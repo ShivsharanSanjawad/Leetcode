@@ -11,7 +11,6 @@ class Solution {
     public int minEatingSpeed(int[] piles, int h) {
         this.a = piles ; 
         this.k = h ;
-        Arrays.sort(a);
         int s = 1 ;
         int max = -1 ; 
         for(int i=0;i<piles.length;i++){
