@@ -213,6 +213,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0792-binary-search](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1185-find-in-mountain-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -278,6 +279,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1063-best-sightseeing-pair](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1185-find-in-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1256-rank-transform-of-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
