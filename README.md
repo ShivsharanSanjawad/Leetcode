@@ -207,6 +207,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0367-valid-perfect-square](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0400-nth-digit) |
+| [0410-split-array-largest-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0729-my-calendar-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0729-my-calendar-i) |
@@ -263,6 +264,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0303-range-sum-query-immutable](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0403-frog-jump](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0414-third-maximum-number) |
 | [0477-total-hamming-distance](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -421,6 +423,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -466,6 +469,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0300-longest-increasing-subsequence](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0337-house-robber-iii) |
 | [0403-frog-jump](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -756,6 +760,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | ------- |
 | [0055-jump-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
