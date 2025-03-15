@@ -216,6 +216,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1185-find-in-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -295,6 +296,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1552-build-an-array-with-stack-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
