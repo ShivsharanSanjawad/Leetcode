@@ -27,22 +27,17 @@ class Solution {
         return ans ;
     }
     public boolean get(int []b , int n , int m , int k){
-        ArrayList<Integer> a = new ArrayList<>() ; 
+        int count = 0 ;
         int prev = 0 ;
         for(int i=0;i<b.length;i++){
             if(b[i]<=n){
                 prev ++ ;
             }else {
-                a.add(prev) ; 
+                count += prev/k ;
                 prev = 0 ; 
             }
         }
-        a.add(prev);
-        int count = 0 ; 
-       // System.out.println(a);
-        for(int i=0;i<a.size();i++){
-            count += a.get(i)/k ; 
-        }
+        count += prev/k ; 
         return count>=m; 
     }
 }
