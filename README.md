@@ -215,6 +215,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0907-koko-eating-bananas](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1185-find-in-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -287,6 +288,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
