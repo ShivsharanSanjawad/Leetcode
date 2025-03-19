@@ -388,6 +388,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -443,6 +444,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2465-shifting-letters-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Recursion
 |  |
@@ -688,6 +690,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0969-number-of-recent-calls](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -733,6 +736,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [3291-find-if-array-can-be-sorted](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3394-minimum-array-end) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Stack
 |  |
@@ -1003,6 +1007,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Quickselect
 |  |
 | ------- |
