@@ -5,7 +5,7 @@ class Solution {
         for(int i=0;i<supplies.length;i++){
             s.put(supplies[i],0) ;
         }
-        int z = supplies.length ;
+        int z = 10 ;
         while(z-->0){
         for(int i=0;i<in.size();i++){
             boolean flag = true ;
