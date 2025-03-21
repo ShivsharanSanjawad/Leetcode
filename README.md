@@ -108,6 +108,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2447-merge-similar-items](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2447-merge-similar-items) |
@@ -172,6 +173,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -341,6 +343,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2155-find-missing-observations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1040,6 +1043,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | ------- |
 | [0547-number-of-provinces](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0547-number-of-provinces) |
 | [1558-course-schedule-iv](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -1069,4 +1073,5 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 |  |
 | ------- |
 | [1558-course-schedule-iv](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
