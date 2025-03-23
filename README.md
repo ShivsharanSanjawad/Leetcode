@@ -133,6 +133,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0008-string-to-integer-atoi](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0071-simplify-path) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0179-largest-number) |
@@ -455,6 +456,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0002-add-two-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0231-power-of-two) |
@@ -467,6 +469,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0070-climbing-stairs) |
@@ -768,6 +771,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0410-split-array-largest-sum) |
