@@ -313,6 +313,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1706-min-cost-to-connect-all-points](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1720-crawler-log-folder](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -1055,6 +1056,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | ------- |
 | [0547-number-of-provinces](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0547-number-of-provinces) |
 | [1558-course-schedule-iv](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1558-course-schedule-iv) |
+| [1706-min-cost-to-connect-all-points](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3189-find-champion-ii) |
@@ -1069,6 +1071,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | ------- |
 | [0547-number-of-provinces](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0547-number-of-provinces) |
 | [1396-count-servers-that-communicate](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1706-min-cost-to-connect-all-points](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1086,4 +1089,8 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | ------- |
 | [1558-course-schedule-iv](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
