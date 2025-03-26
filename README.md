@@ -54,6 +54,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2155-find-missing-observations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2402-maximum-xor-after-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2402-maximum-xor-after-operations) |
 | [2448-count-number-of-bad-pairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -344,6 +345,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2132-convert-1d-array-into-2d-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2155-find-missing-observations) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -524,6 +526,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2089-maximum-matrix-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2145-grid-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -601,6 +604,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1752-arithmetic-subarrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1752-arithmetic-subarrays) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2447-merge-similar-items](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2447-merge-similar-items) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
