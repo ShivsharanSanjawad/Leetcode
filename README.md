@@ -67,6 +67,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3371-harshad-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
@@ -518,6 +519,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
+| [2998-count-symmetric-integers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Number Theory
 |  |
 | ------- |
