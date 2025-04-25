@@ -127,6 +127,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -399,6 +400,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2792-neighboring-bitwise-xor](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -1038,6 +1040,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Quickselect
