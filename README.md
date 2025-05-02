@@ -154,6 +154,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0567-permutation-in-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0567-permutation-in-string) |
 | [0640-solve-the-equation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0640-solve-the-equation) |
 | [0812-rotate-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -508,6 +509,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0494-target-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0868-push-dominoes](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0868-push-dominoes) |
 | [1025-minimum-cost-for-tickets](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
@@ -577,6 +579,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0567-permutation-in-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0861-flipping-an-image) |
+| [0868-push-dominoes](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
