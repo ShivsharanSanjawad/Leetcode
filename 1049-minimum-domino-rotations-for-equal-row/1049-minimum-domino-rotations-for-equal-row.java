@@ -16,7 +16,7 @@ class Solution {
                 id = i+1 ; 
             }
         }
-        System.out.println(id+" "+max+" "+tops.length) ;
+       // System.out.println(id+" "+max+" "+tops.length) ;
         if(max<tops.length||id==-1){
             return -1 ;
         }
