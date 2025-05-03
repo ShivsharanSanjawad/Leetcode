@@ -302,6 +302,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0952-word-subsets](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1185-find-in-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1185-find-in-mountain-array) |
@@ -813,6 +814,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
