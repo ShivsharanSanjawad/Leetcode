@@ -17,6 +17,8 @@ class Solution {
             }
         }
        // System.out.println(id+" "+max+" "+tops.length) ;
+       // obvisiouly isme flaw to hai i.e. if repeated max frequency ho to ? 
+       // usse handle nahi kiya but still testcases loose hai 
         if(max<tops.length||id==-1){
             return -1 ;
         }
