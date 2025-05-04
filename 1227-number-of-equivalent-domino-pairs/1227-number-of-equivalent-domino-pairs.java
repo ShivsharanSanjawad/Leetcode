@@ -5,7 +5,7 @@ class Solution {
             int x = d[i][0]*10 + d[i][1] ; 
             int y = d[i][1]*10 + d[i][0] ; 
             if(h.containsKey(x)){
-                h.put(x,h.getOrDefault(x,0)+1);
+                h.put(x,h.get(x)+1);
             }else {
                 h.put(y,h.getOrDefault(y,0)+1);
             }
