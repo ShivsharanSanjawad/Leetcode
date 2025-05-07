@@ -421,6 +421,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Simulation
@@ -560,6 +561,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2722-prime-in-diagonal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -663,6 +665,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -1097,10 +1100,12 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [3189-find-champion-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Union Find
 |  |
 | ------- |
