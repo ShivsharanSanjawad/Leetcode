@@ -4,13 +4,13 @@ class Solution {
         HashSet<Integer> x = new HashSet<>() ;
         int n = digits.length ;
         for(int i=0;i<n;i++){
-            if(digits[i]==0) continue ;
+            if(digits[i]%2!=0) continue ;
             for(int j=0;j<n;j++){
                 if(i==j) continue;
                 for(int k=0;k<n;k++){
                     if(j==k||i==k) continue;
-                    int z = digits[i]*100+digits[j]*10+digits[k] ;
-                    if(z%2==0)
+                    if(digits[k]==0) continue ;
+                    int z = digits[i]+digits[j]*10+digits[k]*100 ;
                     x.add(z) ; 
                 }
             }
