@@ -1,6 +1,5 @@
 class Solution {
     public int[] findEvenNumbers(int[] digits) {
-        Arrays.sort(digits) ; 
         boolean flags[] = new boolean[1001];
         int n = digits.length ;
         for(int i=0;i<n;i++){
