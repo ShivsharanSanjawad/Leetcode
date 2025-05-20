@@ -428,6 +428,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Simulation
@@ -483,6 +484,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3639-zero-array-transformation-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Recursion
 |  |
