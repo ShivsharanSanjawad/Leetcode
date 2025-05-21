@@ -433,6 +433,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [3639-zero-array-transformation-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Simulation
 |  |
 | ------- |
@@ -539,6 +540,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Enumeration
 |  |
 | ------- |
@@ -576,6 +578,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -803,6 +806,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [3394-minimum-array-end](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
+| [3659-count-paths-with-the-given-xor-value](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Stack
 |  |
 | ------- |
