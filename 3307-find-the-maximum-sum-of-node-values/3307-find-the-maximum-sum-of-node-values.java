@@ -8,7 +8,7 @@ class Solution {
         if(i==nums.length){
             return isEven==1?0:Long.MIN_VALUE ; 
         }
-        long x = (i<<15)|isEven ; 
+        long x = (i<<14)|isEven ; 
         if(dp.containsKey(x)){
             return dp.get(x) ;
         }
