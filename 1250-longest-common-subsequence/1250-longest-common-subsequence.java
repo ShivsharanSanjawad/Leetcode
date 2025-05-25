@@ -27,7 +27,7 @@ class Solution {
        int j = dp[0].length-2 ;
        while(i>0&&j>0){
             if(c[i][j]=='\\'){
-                s = text1.charAt(i) + s ;
+                s = text1.charAt(i-1) + s ;
                 i-- ; 
                 j-- ;
             }else if(c[i][j]=='_'){
