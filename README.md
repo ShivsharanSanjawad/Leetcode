@@ -165,6 +165,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1250-longest-common-subsequence](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -534,6 +535,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0868-push-dominoes](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0868-push-dominoes) |
 | [1025-minimum-cost-for-tickets](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1250-longest-common-subsequence](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
