@@ -22,16 +22,16 @@ class Solution {
                 }
             }
        }
-       print(c,text1.length()-1,text2.length()-1,text1);
+       print(c,text1.length(),text2.length(),text1);
        return dp[text1.length()][text2.length()];
     }
     public void print(char c[][],int i ,int j,String text1){
-        if(i==-1||j==-1){
+        if(i==0||j==0){
             return ;
         }
         if(c[i][j]=='\\'){
             print(c,i-1,j-1,text1);
-            System.out.print(text1.charAt(i));
+            System.out.print(text1.charAt(i-1));
         }else if(c[i][j]=='_'){
             print(c,i-1,j,text1);
         }else print(c,i,j-1,text1);
