@@ -443,6 +443,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [3643-zero-array-transformation-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Simulation
 |  |
 | ------- |
