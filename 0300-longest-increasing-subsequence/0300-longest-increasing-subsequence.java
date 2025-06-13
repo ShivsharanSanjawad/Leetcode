@@ -1,37 +1,25 @@
 class Solution {
-    int [] dp ; 
-    public int get(int [] nums,int i){
-        if(i==nums.length-1){
-            return 1; 
-        }
-        if(i>=nums.length){
-            return  1 ; 
-        }
-        if(dp[i]!=-1){
-            return dp[i];
-        }
-        int max = 1 ;
-        for(int j = i ;j<nums.length;j++){
-            if(nums[i]<nums[j]){
-                int x = get(nums,j) +1 ;
-                if(max<x){
-                    max = x ;
-                }
-            }
-        }
-        dp[i] =  max ;
-        return dp[i] ;
-    }
+    int [][] dp ;
     public int lengthOfLIS(int[] nums) {
-        int max = 1 ;
-        dp = new int[nums.length];
-        Arrays.fill(dp,-1);
-        for(int i = 0 ; i<nums.length ;i++){
-            int x = get(nums,i);
-            if(max<x){
-                max = x;
-            }
+        dp = new int[nums.length+1][nums.length+2];
+        for(int i=0;i<dp.length;i++){
+            Arrays.fill(dp[i],-1);
         }
-        return max ;
+        return get(nums,0,-1);
+    }
+    public int get(final int[]a,int i,int prev){
+        if(i==a.length){
+            return 0 ;
+        }
+        if(dp[i][prev+1]!=-1){
+            return dp[i][prev+1];
+        }
+        int x = -1 ; 
+        int y = -1 ;
+        if(prev<0||a[i]>a[prev]){
+            x = 1+get(a,i+1,i);
+        }
+        y = get(a,i+1,prev);
+        return dp[i][prev+1] = Math.max(x,y);
     }
 }
