@@ -274,6 +274,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0075-sort-colors](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0135-candy](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0162-find-peak-element) |
@@ -853,6 +854,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | ------- |
 | [0044-wildcard-matching](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
