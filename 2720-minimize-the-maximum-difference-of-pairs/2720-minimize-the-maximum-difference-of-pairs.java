@@ -4,11 +4,11 @@ class Solution {
         int s = 0 ; 
         int e = Integer.MAX_VALUE ; 
         int ans = e ;
-        while(e>s){
+        while(e>=s){
             int mid = s + (e-s)/2 ; 
             if(get(nums,p,mid)){
                 ans = mid ; 
-                e = mid ;
+                e = mid -1 ;
             }else s = mid +1 ;
         }
         return ans ;
