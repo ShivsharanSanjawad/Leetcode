@@ -2,13 +2,13 @@ class Solution {
     public int minimizeMax(int[] nums, int p) {
         Arrays.sort(nums);
         int s = 0 ; 
-        int e = nums[nums.length-1] - nums[0]  ; 
+        int e = Integer.MAX_VALUE ; 
         int ans = e ;
         while(e>s){
             int mid = s + (e-s)/2 ; 
             if(get(nums,p,mid)){
                 ans = mid ; 
-                e = mid  ;
+                e = mid ;
             }else s = mid +1 ;
         }
         return ans ;
