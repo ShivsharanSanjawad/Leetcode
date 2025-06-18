@@ -429,6 +429,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -686,6 +687,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3321-type-of-triangle) |
@@ -882,6 +884,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Reservoir Sampling
 |  |
