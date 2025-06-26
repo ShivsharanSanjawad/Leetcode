@@ -16,17 +16,23 @@ class Solution {
         int count = 0;
         long total = 0;
         int n = s.length();
-
+        boolean flag = false ;
         for (int i = 0; i < n; i++) {
             if (s.charAt(i) == '0') {
                 count++;
             } else {
                 int x = (n - 1) - i;  // bit-position from right
-
+                  if(flag){
+                    count++ ;
+                    continue ; 
+                }
                 // choose guard based on rule
                 if (excludeSureBit ? x >= sure : x > sure) 
                     continue;
 
+                if(excludeSureBit){
+                    flag = true ;
+                }
                 long add = 1L << x;
                 if (total + add <= k) {
                     total += add;
