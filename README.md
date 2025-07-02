@@ -221,6 +221,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [3447-clear-digits](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3617-find-the-original-typed-string-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
