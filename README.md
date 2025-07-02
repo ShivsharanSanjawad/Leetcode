@@ -222,6 +222,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [3451-string-compression-iii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3617-find-the-original-typed-string-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Binary Search
@@ -515,6 +516,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Recursion
@@ -571,6 +573,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3618-find-the-original-typed-string-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Enumeration
 |  |
