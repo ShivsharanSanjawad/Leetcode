@@ -1,55 +1,54 @@
 class Solution {
     long mod = 1000000007;
-
     public int possibleStringCount(String s, int k) {
-        ArrayList<Integer> freq = new ArrayList<>();
-        int count = 1;
-
-        // Step 1: Create frequency blocks
-        for (int i = 1; i < s.length(); i++) {
-            if (s.charAt(i) == s.charAt(i - 1)) count++;
-            else {
-                freq.add(count);
-                count = 1;
+        long dp[][] ;
+        ArrayList<Long> freq =  new ArrayList<>() ; 
+        long count = 1 ; 
+        for(int i=1;i<s.length();i++){
+            if(s.charAt(i)==s.charAt(i-1)){
+                count++ ;
+            }else{
+                freq.add(count) ; 
+                count = 1 ; 
             }
-        }
+        } 
         freq.add(count);
-        int n = freq.size();
-
-        // Step 2: Compute total product = 1 char per group
-        long totalProduct = 1;
-        for (int f : freq) {
-            totalProduct = (totalProduct * f) % mod;
+        long ans = 1 ; 
+        for(int i=0;i<freq.size();i++){
+            ans =   (1L*ans*freq.get(i))%mod ;
         }
-
-        if (n >= k) return (int) totalProduct;
-
-        // Step 3: Optimized DP using sliding window
-        long[][] dp = new long[n][k];
-        for (int i = 1; i <= freq.get(0) && i < k; i++) {
-            dp[0][i] = 1;
+        if(freq.size()>=k){
+             return (int)ans ;
         }
-
-        for (int i = 1; i < n; i++) {
-            int maxTake = freq.get(i);
-            long[] prefix = new long[k];
-            prefix[0] = dp[i - 1][0];
-            for (int j = 1; j < k; j++) {
-                prefix[j] = (prefix[j - 1] + dp[i - 1][j]) % mod;
+        dp = new long[freq.size()+1][k] ;
+        for(int i=1;i<=freq.get(0)&&i<k;i++){
+            dp[0][i] = 1; 
+        }
+        count = 0 ; 
+        for(int i=1;i<freq.size();i++){
+            long prefix[] = new long[k]; 
+            prefix[0]= dp[i-1][0] ; 
+            for(int j=1;j<k;j++){
+                prefix[j] = (prefix[j-1] + dp[i-1][j])%mod;
             }
-
-            for (int j = 1; j < k; j++) {
-                long left = j - maxTake - 1 >= 0 ? prefix[j - maxTake - 1] : 0;
-                dp[i][j] = (prefix[j - 1] - left + mod) % mod;
+            for(int j=1;j<k;j++){
+                // long count2 = 0 ; 
+                // for(int z =1;z<=freq.get(i)&&z<=j;z++){
+                //     count2 = (count2 + dp[i-1][j-z])%mod ;
+                // }
+                // dp[i][j] = count2 ;
+                long x = freq.get(i);
+                if(freq.get(i)>=j){
+                    dp[i][j] = prefix[j-1];
+                }else{
+                    dp[i][j] = (prefix[j-1] -prefix[j-(int)x-1] + mod)%mod; 
+                }
             }
         }
-
-        // Step 4: Subtract bad cases (strings < k length)
-        long bad = 0;
-        for (int len = 1; len < k; len++) {
-            bad = (bad + dp[n - 1][len]) % mod;
+        for(int i=1;i<k;i++){
+            count = (count + dp[freq.size()-1][i])%mod;
         }
-
-        return (int) ((totalProduct - bad + mod) % mod);
+        long x = (ans-count+mod)%mod ; 
+        return (int)x;
     }
 }
