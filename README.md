@@ -75,6 +75,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [3321-type-of-triangle](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3321-type-of-triangle) |
 | [3371-harshad-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -492,6 +493,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -535,6 +537,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1197-parsing-a-boolean-expression](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -850,6 +853,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [3394-minimum-array-end](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Stack
 |  |
