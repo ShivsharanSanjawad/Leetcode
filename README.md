@@ -266,6 +266,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2690-house-robber-iv) |
@@ -418,6 +419,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2448-count-number-of-bad-pairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2502-sort-the-people](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -845,6 +847,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2402-maximum-xor-after-operations](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2402-maximum-xor-after-operations) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2509-minimize-xor) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -1151,6 +1154,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [1813-maximum-erasure-value](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
