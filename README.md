@@ -289,6 +289,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0055-jump-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0136-single-number) |
@@ -554,6 +555,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0053-maximum-subarray](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0213-house-robber-ii) |
