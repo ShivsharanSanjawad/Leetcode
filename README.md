@@ -320,6 +320,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 | [0477-total-hamming-distance](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -482,6 +483,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0537-complex-number-multiplication) |
 | [0640-solve-the-equation](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0640-solve-the-equation) |
 | [0861-flipping-an-image](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0861-flipping-an-image) |
@@ -620,6 +622,7 @@ leetcode profile https://leetcode.com/u/shivsharangs/
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/0861-flipping-an-image) |
 | [1396-count-servers-that-communicate](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ShivsharanSanjawad/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
